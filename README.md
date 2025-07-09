@@ -12,7 +12,7 @@ Você pode acessar o whitepaper completo aqui: [NeuroNetChain Whitepaper V1 (PDF
 
 O hash SHA-256 do whitepaper foi registrado na blockchain Bitcoin usando OpenTimestamps para garantir a prova de autoria e data:
 
-`b9973a2ef56d64c8e50b97a9c4dc7f373028cd7bc19a36be3176f661d8b36a6f`
+`e0db3131094761aebda9799d933891c34f1b8ee6521505b87d6534ee83764e8f`
 
 ## Licença
 
