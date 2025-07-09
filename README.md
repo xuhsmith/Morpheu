@@ -6,7 +6,7 @@ NeuroNetChain é uma infraestrutura blockchain projetada para funcionar como uma
 
 ## Whitepaper
 
-Você pode acessar o whitepaper completo aqui: [NeuroNetChain Whitepaper V1 (PDF)](LINK_PARA_SEU_PDF_AQUI)
+Você pode acessar o whitepaper completo aqui: [NeuroNetChain Whitepaper V1 (PDF)](https://www.mediafire.com/file/msm36qzsu57d60x/NeuroNetChain_Whitepaper_V1.pdf/file)
 
 ## Prova de Anterioridade
 
