@@ -19,6 +19,22 @@ O hash SHA-256 do whitepaper foi registrado na blockchain Bitcoin usando OpenTim
 Este projeto está sob a licença [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
+## 💸 Apoie o Projeto
+
+Se você acredita no poder de uma IA verdadeiramente descentralizada, ajude o MORPHEU a crescer. Toda doação é um passo a mais rumo à mente coletiva universal.
+
+**Carteira para doações (USDT / MATIC / ETH /SOLANA):**
+
+Usdt : 0x53d2b0555615Aabc50E1C649e2CC1E2504BF1c29   (Coinbase)
+
+Matic : 0x18d01f31FEc68226cDe45530dbF53cE8ABa5C492  (Coinbase)
+
+Eth:  0x502Cca9640A5D5196aDE3C4A6BD876eACEA44C85   (Coinbase)
+
+Solana: 3N4xgtmHCb3fArv47BfEAtNFZtSRgz258h7965Rye6AX  (Coinbase)
+
+
+> Toda contribuição será registrada e, futuramente, os apoiadores iniciais poderão ser reconhecidos na DAO ou receber NFTs de fundador.
 
 ## Contato
   
