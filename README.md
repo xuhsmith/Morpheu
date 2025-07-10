@@ -21,6 +21,5 @@ Este projeto está sob a licença [Creative Commons Attribution-NonCommercial-Sh
 ---
 
 ## Contato
-
-Telegram: @neuronetdao  
-E-mail: junior@example.com
+  
+E-mail: juniormcel@gmail.com
