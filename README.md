@@ -1,12 +1,12 @@
-# NeuroNetChain
+# MORPHEU 
 
 ## Visão Geral
 
-NeuroNetChain é uma infraestrutura blockchain projetada para funcionar como uma camada neural descentralizada, criando uma inteligência artificial coletiva, auditável e imutável.
+MORPHEU é uma infraestrutura blockchain projetada para funcionar como uma camada neural descentralizada, criando uma inteligência artificial coletiva, auditável e imutável.
 
 ## Whitepaper
 
-Você pode acessar o whitepaper completo aqui: [NeuroNetChain Whitepaper V1 (PDF)](https://www.mediafire.com/file/msm36qzsu57d60x/NeuroNetChain_Whitepaper_V1.pdf/file)
+Você pode acessar o whitepaper completo aqui: [morpheu Whitepaper V1 (PDF)](https://www.mediafire.com/file/msm36qzsu57d60x/morpheu_Whitepaper_V1.pdf/file)
 
 ## Prova de Anterioridade
 
