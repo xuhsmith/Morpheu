@@ -34,7 +34,7 @@ Eth:  0x502Cca9640A5D5196aDE3C4A6BD876eACEA44C85   (Coinbase)
 Solana: 3N4xgtmHCb3fArv47BfEAtNFZtSRgz258h7965Rye6AX  (Coinbase)
 
 
-> Toda contribuição será registrada e, futuramente, os apoiadores iniciais poderão ser reconhecidos na DAO ou receber NFTs do fundador.
+> Toda contribuição será registrada e, futuramente, os apoiadores iniciais poderão ser reconhecidos na DAO ou receber Tokens do fundador.
 
 ## Contato
   
