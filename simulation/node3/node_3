@@ -1,0 +1,52 @@
+import json
+from time import time
+from hashlib import sha256
+import random
+
+class Block:
+    def __init__(self, index, timestamp, data, previous_hash):
+        self.index = index
+        self.timestamp = timestamp
+        self.data = data
+        self.previous_hash = previous_hash
+        self.hash = self.calculate_hash()
+
+    def calculate_hash(self):
+        block_string = f"{self.index}{self.timestamp}{self.data}{self.previous_hash}".encode()
+        return sha256(block_string).hexdigest()
+
+    def to_dict(self):
+        return {
+            "index": self.index,
+            "timestamp": self.timestamp,
+            "data": self.data,
+            "previous_hash": self.previous_hash,
+            "hash": self.hash
+        }
+
+def create_genesis_block():
+    return Block(0, time(), {"genesis": True}, "0")
+
+def generate_dummy_weights():
+    return {
+        "w1": round(random.uniform(-1, 1), 3),
+        "w2": round(random.uniform(-1, 1), 3),
+        "b": round(random.uniform(-1, 1), 3)
+    }
+
+def generate_blockchain(num_blocks=3):
+    blockchain = [create_genesis_block()]
+    for i in range(1, num_blocks):
+        weights = generate_dummy_weights()
+        new_block = Block(
+            i, time(), weights, blockchain[-1].hash
+        )
+        blockchain.append(new_block)
+    return blockchain
+
+if __name__ == "__main__":
+    chain = generate_blockchain()
+    chain_dict = [block.to_dict() for block in chain]
+    with open("blockchain_node.json", "w") as f:
+        json.dump(chain_dict, f, indent=4)
+    print("✅ Blockchain gerada com sucesso!")
